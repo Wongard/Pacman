@@ -1,0 +1,9 @@
+Test 570
+Maciek 400
+Domino 230
+Michal 130
+Adam 120
+Mateusz 90
+Wojtek 70
+Jan 50
+Mateo 0
